@@ -7,7 +7,9 @@
     padding-right: 10px;
     margin: 30px;
 
-    background: #ff0000;
+    background: #00ff0d;
+
+    border: dashed red 2px;
 }
 
 
